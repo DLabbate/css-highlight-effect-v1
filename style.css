@@ -1,0 +1,17 @@
+* {
+  font-size: 2.25rem;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.highlight {
+  background: linear-gradient(180deg, white 60%, #ffe675 40%);
+  display: inline;
+}
