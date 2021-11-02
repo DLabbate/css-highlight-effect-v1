@@ -10,8 +10,7 @@ body {
   align-items: center;
   height: 100vh;
 }
-
 .highlight {
-  background: linear-gradient(180deg, white 60%, #ffe675 40%);
+  background: linear-gradient(180deg, white 60%, #ffe675 60%);
   display: inline;
 }
